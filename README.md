@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+# Experience 
+
+SOC Analyst, Incident Response, Malware Analysis
+
+# Currently Working On
+
+Commiting changes to this repo
+
 <!--
 **DanJenkins-Developer/DanJenkins-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
