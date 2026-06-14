@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Experience 
 
 SOC Analyst, Incident Response, Malware Analysis
