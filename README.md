@@ -1,14 +1,14 @@
 # Experience 
 
-SOC Analyst, Incident Response, Malware Analysis
+Security Analysis, Incident Response, Malware Analysis
 
 # Currently Working On
 
 Commiting changes to this repo
 
-Learning nvim keyboard shortcuts
+Installing another text editor
 
-Maximizing stakeholder returns
+Maximizing stakeholder value
 
 <!--
 **DanJenkins-Developer/DanJenkins-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
