@@ -6,6 +6,10 @@ SOC Analyst, Incident Response, Malware Analysis
 
 Commiting changes to this repo
 
+Learning nvim keyboard shortcuts
+
+Maximizing stakeholder returns
+
 <!--
 **DanJenkins-Developer/DanJenkins-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
