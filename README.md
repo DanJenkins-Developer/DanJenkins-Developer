@@ -1,6 +1,6 @@
 # Experience 
 
-Security Analysis, Incident Response, Malware Analysis
+Security, Incident Response, Malware Analysis
 
 # Currently Working On
 
